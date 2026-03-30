@@ -14,4 +14,3 @@ This folder contains my notebooks and report for the **Kaggle "Don't Overfit II"
 - `XGBoost.ipynb` – Extreme Gradient Boost model.
 - `MLP.ipynb` – Neural networks and Muptiple layers perceptron experiments with different width and depth.
 - `Report.pdf` – Complete written report.
-- `extract_file` – Script to retrieve the older dataset to work with.
